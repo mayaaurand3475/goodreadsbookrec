@@ -1,6 +1,6 @@
-# Project Name
+# Welcome to the Pomodoro Project!
 
- Add short description of project here > 
+ Hi, I'm Maya! And welcome to the Pomodoro Project, a simple machine I made for my NVIDIA class! It tells you when to take study breaks based on the time you put in. It also shows you while your working, so you can see if you are distracted or not. Use my machine with caution, but with intrigue. 
 
 ![add image descrition here](direct image link here)
 
@@ -10,7 +10,11 @@ Add an explanation of the algorithm and how it works. Make sure to include detai
 
 ## Running this project
 
-1. Add steps for running this project.
-2. Make sure to include any required libraries that need to be installed for your project to run.
+1. For running this project, you need to make a new Google Colab notebook. Open it up.
+2. Connect your NVIDIA with its webcam.
+3. Simply follow the instructions to set up the countdown and the webcam.
+4. Congrats! The webcam should be running in your notebook.
+5. Do your Pomodoro training! Go wild!
+No libraries need to be installed for this project.
 
 [View a video explanation here](video link)
